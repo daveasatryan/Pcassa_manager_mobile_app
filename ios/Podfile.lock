@@ -1,0 +1,28 @@
+PODS:
+  - Flutter (1.0.0)
+  - scan (0.0.1):
+    - Flutter
+  - shared_preferences_ios (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - scan (from `.symlinks/plugins/scan/ios`)
+  - shared_preferences_ios (from `.symlinks/plugins/shared_preferences_ios/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  scan:
+    :path: ".symlinks/plugins/scan/ios"
+  shared_preferences_ios:
+    :path: ".symlinks/plugins/shared_preferences_ios/ios"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  scan: aea35bb4aa59ccc8839c576a18cd57c7d492cc86
+  shared_preferences_ios: 548a61f8053b9b8a49ac19c1ffbc8b92c50d68ad
+
+PODFILE CHECKSUM: d16a5a4f95e1157a028f5122a79cb5288aad5172
+
+COCOAPODS: 1.11.3
